@@ -1,0 +1,8 @@
+Moai template for iOS.
+
+This already does all the steps (and some minor changes) as written on 
+http://getmoai.com/wiki/index.php?title=Building_Moai_Games_For_iOS_Devices .
+
+There should be no build problems, and it should build into a "Test successful..." screen.
+
+Just replace the main.lua file in the /lua folder, and you're good to go!
